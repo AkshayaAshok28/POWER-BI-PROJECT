@@ -1,13 +1,13 @@
-📊 E-commerce Sales Dashboard – Power BI Project
+# 📊 E-commerce Sales Dashboard – Power BI Project
 
 
-📌 Project Overview
+## 📌 Project Overview
 This project presents an interactive E-commerce Sales Dashboard built in Power BI.
 The dashboard helps analyze key metrics such as sales performance, customer insights, product trends, and regional performance, enabling better business decisions.
 
 ----
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Track total sales, profit, and quantity sold
 
@@ -21,19 +21,19 @@ The dashboard helps analyze key metrics such as sales performance, customer insi
 
 ----
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
-- Power BI Desktop – Data visualization & dashboarding
+- **Power BI Desktop** – Data visualization & dashboarding
 
-- Excel/CSV Dataset – Raw sales data
+- **Excel/CSV Dataset** – Raw sales data
 
-- DAX (Data Analysis Expressions) – Custom measures & KPIs
+- **DAX (Data Analysis Expressions)** – Custom measures & KPIs
 
-- Power Query – Data transformation & cleaning
+- **Power Query Editor** – Data transformation & cleaning
 
 -----
 
-📂 Project Structure
+## 📂 Project Structure
 
 📦 Ecommerce-Sales-Dashboard
  ┣ 📂 dataset
@@ -45,25 +45,22 @@ The dashboard helps analyze key metrics such as sales performance, customer insi
 
  -----
 
- 📊 Key Insights from Dashboard
+ ## 📊 Key Insights from Dashboard
 
-- 💰 Total Sales: [Add value]
+- 💰 Total Sales: [$3.3bn]
 
-- 📦 Top Category: [Category name]
+- 📦 Top Category: [Clothing]
 
-- 🏆 Top Product: [Product name]
+- 🌍 Best Performing State: [Madhya Pradesh]
 
-- 🌍 Best Performing Region: [Region name]
-
-- 📈 Sales Trend: Consistent growth/decline during [months/years]
+- 📈 Sales Trend: Consistent growth during [Q1]
 
 ------
 
-📧 Contact
+## 📧 Contact
 
-👩‍💻 Your Name
-📩 Email: aakshaya.ashok@gmail.com
-
-🌐 GitHub: [http://github.com/AkshayaAshok28]
+- **👩‍💻 Your Name:** Akshaya A
+- **📩 Email:** aakshaya.ashok@gmail.com
+- **🌐 GitHub:** [http://github.com/AkshayaAshok28]
 
 
